@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers_ICE2", "Indexers_ICE2\Indexers_ICE2.csproj", "{5BDD3D56-9858-4226-B1B6-37AE32D607FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeroes", "TestHeroes\TestHeroes.csproj", "{B9188CF1-8456-4B3D-B7CB-B132170FDB41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5BDD3D56-9858-4226-B1B6-37AE32D607FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BDD3D56-9858-4226-B1B6-37AE32D607FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BDD3D56-9858-4226-B1B6-37AE32D607FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9188CF1-8456-4B3D-B7CB-B132170FDB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9188CF1-8456-4B3D-B7CB-B132170FDB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9188CF1-8456-4B3D-B7CB-B132170FDB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9188CF1-8456-4B3D-B7CB-B132170FDB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
